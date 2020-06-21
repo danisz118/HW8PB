@@ -1,0 +1,20 @@
+июн 21, 2020 11:55:16 AM com.company.Walk main
+INFO: Начало main, создаем объект Dog 
+июн 21, 2020 11:55:17 AM com.company.Walk main
+INFO: Обращаемся к методу  goWalk и передаем параметры для проверки
+июн 21, 2020 11:55:17 AM com.company.Walk main
+INFO: Создаем второй объект Dog 
+июн 21, 2020 11:55:17 AM com.company.Walk main
+INFO: Обращаемся к методу  goWalk и передаем параметры для проверки
+июн 21, 2020 11:55:17 AM com.company.Walk main
+WARNING: Исключительная ситуация собака без намордника и поводка!!!
+июн 21, 2020 11:55:29 AM com.company.Walk main
+INFO: Начало main, создаем объект Dog 
+июн 21, 2020 11:55:30 AM com.company.Walk main
+INFO: Обращаемся к методу  goWalk и передаем параметры для проверки
+июн 21, 2020 11:55:30 AM com.company.Walk main
+INFO: Создаем второй объект Dog 
+июн 21, 2020 11:55:30 AM com.company.Walk main
+INFO: Обращаемся к методу  goWalk и передаем параметры для проверки
+июн 21, 2020 11:55:30 AM com.company.Walk main
+WARNING: Исключительная ситуация собака без намордника и поводка!!!
